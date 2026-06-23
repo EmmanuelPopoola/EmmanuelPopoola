@@ -10,6 +10,9 @@
 
 I'm an aspiring software engineer currently focused on web development. I'm learning how to build modern web applications while developing a strong foundation in software engineering principles.
 
+Follow my Progress: [web-dev-journey](https://github.com/EmmanuelPopson/web-dev-journey)
+
+
 ---
 
 ## Currently Learning
