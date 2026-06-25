@@ -2,28 +2,28 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Emmanuel+%F0%9F%91%8B&center=true&width=500&height=50&color=FFFFFF&background=00000000" />
 </h1>
 
-## 👋 About Me
+## About Me
 
 I'm an aspiring software engineer, currently learning web development and building projects to develop my skills.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - **The Odin Project** — Foundations course (HTML, CSS, JavaScript)
 - **freeCodeCamp** — working toward the Responsive Web Design and JavaScript certifications
 
 ---
 
-## 📌 Follow My Progress
+## Follow My Progress
 
-<a href="https://github.com/EmmanuelPopoola/web-dev-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopoola&repo=web-dev-journey&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/EmmanuelPopoola/Web-Development-Log">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopoola&repo=Web-Development-Log&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,7 +38,7 @@ I'm an aspiring software engineer, currently learning web development and buildi
 
 ---
 
-## 📊 Github Statistics
+## Github Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelPopoola&show_icons=true&theme=graywhite" width="48%" />
