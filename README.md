@@ -5,6 +5,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=EmmanuelPopoola&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/EmmanuelPopoola?label=Followers&style=for-the-badge&color=success" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/EmmanuelPopoola&query=$.public_repos&label=Repositories&style=for-the-badge&color=orange" alt="Repositories" />
   <img src="https://img.shields.io/github/stars/EmmanuelPopoola?affiliations=OWNER&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
