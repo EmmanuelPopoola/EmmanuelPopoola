@@ -2,9 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Emmanuel+%F0%9F%91%8B&center=true&width=500&height=50&color=FFFFFF&background=00000000" />
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=EmmanuelPopoola&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/EmmanuelPopoola?label=Followers&style=for-the-badge&color=success" alt="Followers" />
-<img src="https://img.shields.io/github/stars/EmmanuelPopoola?affiliations=OWNER&style=for-the-badge&color=yellow" alt="Stars" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EmmanuelPopoola&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/EmmanuelPopoola?label=Followers&style=for-the-badge&color=success" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/EmmanuelPopoola?affiliations=OWNER&style=for-the-badge&color=yellow" alt="Stars" />
+</p>
 
 ## 💫 Welcome to my Page
 
