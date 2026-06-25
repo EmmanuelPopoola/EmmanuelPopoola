@@ -18,7 +18,7 @@ I'm an aspiring software engineer, currently learning web development and buildi
 ## Follow My Progress
 
 <a href="https://github.com/EmmanuelPopoola/Web-Development-Log">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopoola&repo=Web-Development-Log&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopoola&repo=Web-Development-Log&theme=graywhite&hide_border=true" />
 </a>
 
 ---
