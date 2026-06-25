@@ -1,69 +1,46 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2a44&height=150&section=header&text=Emmanuel%20Popson&fontSize=38&fontColor=58a6ff&animation=fadeIn" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Emmanuel+%F0%9F%91%8B&center=true&width=500&height=50&color=FFFFFF&background=00000000" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Web+Development;Building+Projects;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Aspiring+Software+Engineer" alt="Typing SVG" />
-</p>
+## 👋 About Me
+
+I'm an aspiring software engineer, currently learning web development and building projects to develop my skills.
 
 ---
 
-## About Me
+## 🌱 Currently Learning
 
-Currently learning web development and building projects to develop my skills in software engineering.
+- **The Odin Project** — Foundations course (HTML, CSS, JavaScript)
+- **freeCodeCamp** — working toward the Responsive Web Design and JavaScript certifications
 
-Follow my progress:
+---
 
-<a href="https://github.com/EmmanuelPopson/web-dev-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopson&repo=web-dev-journey&theme=tokyonight&hide_border=true" />
+## 📌 Follow My Progress
+
+<a href="https://github.com/EmmanuelPopoola/web-dev-journey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopoola&repo=web-dev-journey&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
 
-## Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,netlify" />
-</p>
-
----
-
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
-
----
-
-## Projects
-
-### Portfolio Website
-
-In progress...
-
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopson&&theme=tokyonight&hide_border=true" />
-</a>
-
-### To-Do List App
-
-In progress...
-
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelPopson&&theme=tokyonight&hide_border=true" />
-</a>
-
-### Future Projects
-
-- Quiz App
-- Weather App
-
----
-
-## GitHub Statistics
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelPopson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelPopson&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+---
+
+## 📊 Github Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelPopoola&show_icons=true&theme=graywhite" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelPopoola&layout=compact&theme=graywhite" width="48%" />
 </p>
