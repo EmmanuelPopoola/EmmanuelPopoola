@@ -11,11 +11,9 @@
 
 ## 💫 Welcome to my Page
 
-🔭 I'm currently working on my **Portfolio**.
+I'm currently working on my **Portfolio**.
 
-🎮 When I'm not coding, I like to play Pokémon — **Cinderace** is my favourite Pokémon.
-
-💬 Feel free to ask me anything!
+Feel free to ask me anything!
 
 ## 🌐 Connect with Me
 
@@ -41,7 +39,7 @@
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,vercel" />
 
 ## 📊 GitHub Statistics
 
